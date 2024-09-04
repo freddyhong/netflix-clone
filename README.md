@@ -1,46 +1,20 @@
-# Getting Started with Create React App
+# Netflix Clone Coding. <br> [Click](https://netflix-clone-tau-woad.vercel.app/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 📷 Website Overview.
+![](https://velog.velcdn.com/images/wghong22/post/7788fbf3-4853-4b15-bdc0-be885dc1aa02/image.png)
+![](https://velog.velcdn.com/images/wghong22/post/8de910ac-48b6-41c4-9efa-c48abf8da795/image.png)
+![](https://velog.velcdn.com/images/wghong22/post/fbd7e997-4883-4f74-950f-d35e98ee7019/image.png)
 
-## Available Scripts
+<br>
 
-In the project directory, you can run:
+## 💻 Programming Languages Used.
+![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![React-Router-Dom](https://badgen.net/badge/React-Router-Dom/blue?icon=atom)
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- `React.js`, `Typescript`, `Javascript`
+- `React-Router-Dom`, `React-hook-form`, `React-query`, `Recoil`, `Styled-components`
+- `framer-motion`, `react-type-animation`, `Vite`, `Themoviedb`
+- Deploy : `Github-gh-pages`
+- Later Edit Deploy : `Vercel`
