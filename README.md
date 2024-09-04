@@ -1,4 +1,4 @@
-# Netflix Clone Coding <br> [Click](https://netflix-clone-tau-woad.vercel.app/)
+# Netflix Clone Coding <br> [Go To Website](https://netflix-clone-tau-woad.vercel.app/)
 
 ## 📷 Website Overview.
 ![](https://velog.velcdn.com/images/wghong22/post/7788fbf3-4853-4b15-bdc0-be885dc1aa02/image.png)
