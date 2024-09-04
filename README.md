@@ -1,4 +1,4 @@
-# Netflix Clone Coding. <br> [Click](https://netflix-clone-tau-woad.vercel.app/)
+# Netflix Clone Coding <br> [Click](https://netflix-clone-tau-woad.vercel.app/)
 
 ## 📷 Website Overview.
 ![](https://velog.velcdn.com/images/wghong22/post/7788fbf3-4853-4b15-bdc0-be885dc1aa02/image.png)
@@ -11,10 +11,9 @@
 ![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![React-Router-Dom](https://badgen.net/badge/React-Router-Dom/blue?icon=atom)
-
-- `React.js`, `Typescript`, `Javascript`
-- `React-Router-Dom`, `React-hook-form`, `React-query`, `Recoil`, `Styled-components`
-- `framer-motion`, `react-type-animation`, `Vite`, `Themoviedb`
-- Deploy : `Github-gh-pages`
-- Later Edit Deploy : `Vercel`
+<br>
+![React-Router-Dom](https://badgen.net/badge/React/React-Router-Dom/blue/?icon=atom)
+![React-hook-form](https://badgen.net/badge/React/React-Hook-Form/cyan/?icon=atom)
+![React-query](https://badgen.net/badge/React/React-query/purple/?icon=atom)
+![React-query](https://badgen.net/badge/Animations/Framer-Motion/green)
+![Vercel](https://badgen.net/badge/Deploy/Vercel/grey/?icon=vercel)
