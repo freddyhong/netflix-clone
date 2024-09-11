@@ -2,7 +2,7 @@
 ## [Go To Website](https://netflix-clone-tau-woad.vercel.app/)
 ## 📷 Project Description
 This is a personal Netflix Clone project I developed during the summer of 2024 to enhance my skills in React.js and TypeScript. <br>
-It utilizes the **The Movie Database (TMDb) API** to fetch movie information. <br>
+Utilized the **The Movie Database (TMDb) API** to fetch movie information. <br>
 The UI is styled using **Styled Components**, with animations powered by **Framer Motion**, and the project is deployed on **Vercel**.
 
 
